@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "authentication": "UserPassword",
+      "breakOnError": false,
+      "enableLongRunningSqlStatements": true,
+      "enableSqlInformationDebugger": true,
+      "launchBrowser": true,
+      "name": "bcsandbox154qa",
+      "request": "launch",
+      "schemaUpdateMode": "Synchronize",
+      "server": "https://bcsandbox154qa",
+      "serverInstance": "BC",
+      "startupObjectId": 22,
+      "startupObjectType": "Page",
+      "type": "al"
+  }
+]
+}
